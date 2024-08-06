@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+p, h1 {
+    color: rgb(0, 255, 0);
+}
+
+input {
+    border-radius: 20px;
+    background-color: white;
+    text-align: center;
+
+}
+
+:placeholder-shown {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+button {
+    text-align: center;
+    background-color: white;
+    border-radius: 20px;
+}
+
+a {
+    color: rgb(225, 0, 255);
+}
